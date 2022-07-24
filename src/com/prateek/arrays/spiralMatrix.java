@@ -1,4 +1,4 @@
-package com.company;
+package com.prateek.arrays;
 // link: https://leetcode.com/problems/spiral-matrix/
 import java.sql.Array;
 import java.util.ArrayList;
@@ -10,8 +10,8 @@ public class spiralMatrix {
         System.out.println((spiralOrder(matrix)));
     }
 
-    // decrease "right" when we reach bottom, increase top when we reach right. bottom decreased when left reached,
-    // increase left when reach top.
+//     decrease "right" when we reach bottom, increase top when we reach right. bottom decreased when left reached,
+//     increase left when reach top.
 
     public static List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> list = new ArrayList<>();
