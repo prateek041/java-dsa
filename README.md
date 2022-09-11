@@ -19,3 +19,12 @@ Here I will solve Leetcode questions and maintain the streak for minimum 100 day
 - Did two array problems.
 	- [Easy] Highest Altitude using prefix sum.
 	- [medium] Spiral matrix
+
+## Day 5:
+- Did one array problem.
+	- [Easy] Container with most water.
+
+## Day 6:
+- Started the DS study plan, completed two array problems.
+	[Easy] Contains duplicate.
+	[Medium] Max subArray.
