@@ -26,5 +26,5 @@ Here I will solve Leetcode questions and maintain the streak for minimum 100 day
 
 ## Day 6:
 - Started the DS study plan, completed two array problems.
-	[Easy] Contains duplicate.
-	[Medium] Max subArray.
+	- [Easy] Contains duplicate.
+	- [Medium] Max subArray.
